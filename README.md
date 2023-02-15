@@ -113,4 +113,12 @@ docker-compose up -d
 -  In payload url Copy your Jenkins web address and select application/json.
 -  click on save/update.
 
+### References
+
+- https://jaysydevops.hashnode.dev/jenkins-intro
+- https://jaysydevops.hashnode.dev/jenkins-project
+- https://jaysydevops.hashnode.dev/devops-jenkins-cicd-project-with-docker-and-github-integration
+
+You can go through these blogs for much more understanding 🙂
+
 #### We have Successfully finished our project Enjoy the Project Keep Learning and Have Fun : ) 🥳🥳🎉🎉
