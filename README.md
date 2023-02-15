@@ -1,3 +1,5 @@
+<h1 align="center" style="display: inline-block;">DevOps Project</h1>
+
 
 # This Project is built using Git, Jenkins and Docker. 
 
@@ -14,11 +16,13 @@ Follow below steps to deploy this beautiful todo app built using django.
 - GitHub Account
 ## Table of Contents
 
-- Launching an EC2 Instance
+- [Launching an EC2 Instance][Launching an EC2 Instance]
   - Installing Jenkins and docker in EC2
   - Configuring Jenkins
 - Creating a Job in Jenkins using freestyle project
 - Adding GitHub Webhooks for Continuous Integration and Continuos Delivery
+
+
 **_Lets Start the Project by Launching an EC2 Instance and configuring it by installing Jenkins and Docker in it._**
 
 ### Launching an EC2 Instance
