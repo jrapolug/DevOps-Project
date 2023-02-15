@@ -1,0 +1,6 @@
+version: "2.2"
+services:
+  web:
+    image: rapolu13/django-todo-app-v1:latest
+    ports:
+      - "8000:8000"
